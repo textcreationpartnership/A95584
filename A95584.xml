@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some small and simple reasons, delivered in a hollow-tree, iu [sic] Waltham Forrest, in a lecture, on the 33. of March last. By Aminadab Blower a devout bellows-mender of Pimlico. Shewing the causes in generall and particular wherefore they doe, might, would, should, or ought, except against and quite rufuse the liturgy or Book of Common-Prayer.</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95584</idno>
+            <idno type="STC">Wing T513</idno>
+            <idno type="STC">Thomason E64_14</idno>
+            <idno type="STC">ESTC R16828</idno>
+            <idno type="EEBO-CITATION">99860099</idno>
+            <idno type="PROQUEST">99860099</idno>
+            <idno type="VID">155383</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95584)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155383)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 11:E64[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some small and simple reasons, delivered in a hollow-tree, iu [sic] Waltham Forrest, in a lecture, on the 33. of March last. By Aminadab Blower a devout bellows-mender of Pimlico. Shewing the causes in generall and particular wherefore they doe, might, would, should, or ought, except against and quite rufuse the liturgy or Book of Common-Prayer.</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>by L. Lichfield]</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>Printed, anno millimo, quillimo, trillimo. [1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Postscript signed: J.T.  John Taylor has reference to Arminadab Blower in B.M.</note>
+                  <note>Date in Latin on the title page.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Annotation on Thomason copy: "Oxon. Aug: 10th 1643".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England. --  Book of common prayer --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155383:1" rendition="simple:additions"/>
+            <p>SOME SMALL AND SIMPLE REASONS, Delivered in a Hollow-Tree, in <hi>Waltham</hi> Forreſt, in a Lecture, on the 33. of <hi>March</hi> laſt.</p>
+            <p>BY <hi>AMINADAB BLOWER</hi> A devout Bellowſ-mender of PIMLICO.</p>
+            <p>SHEWING The cauſes in generall and particular wherefore they doe, might, would, ſhould, or ought, ex<g ref="char:EOLhyphen"/>cept againſt and quire refuſe the Liturgy or Book of Common-Prayer.</p>
+            <p>
+               <add>
+                  <abbr>Oxon</abbr> Aug: 10<hi rend="sup">th</hi> 1643</add> PRINTED, Anno <hi>Millimo, Quillimo, Trillimo.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:155383:2"/>
+            <head>Some ſmall and Simple Reaſons, delivered in a Hollow Tree in <hi>Waltham</hi> Forreſt, in a <hi>Lecture,</hi> on the 33. of <hi>March</hi> laſt.</head>
+            <p>MY Dear-beloved, and Zealous Brethren and Siſters here Aſſembled in this holy Congregation, I am to unfold, unravell, untwiſt, unty, unlooſe, and undoe to your uncapable underſtandings, ſome ſmall. Reaſons, the Matter, the Cauſes, the Motives, the Grounds, the Principles, the Maxims, the whyes and the wherefores, wherefore and why, we reject, omit, abandon, contemne, deſpiſe, and are and ought to be withſtanders and oppoſers of the Service-book, (called by the hard name of <hi>Liturgy</hi>) or Common-prayer, which hath continued in the Church of <hi>England</hi> 84. yeeres.</p>
+            <p>I have exactly examined and collected ſome Notes and obſervations out of the Learned Hebrew tranſlated volumes of Rabby <hi>Ananias,</hi> Rabby <hi>Achito<g ref="char:EOLhyphen"/>phel,</hi> Rabby <hi>Iſcariot,</hi> Rabby <hi>Simon Magus,</hi> Rabby <hi>Demas,</hi> and Rabby <hi>Alex<g ref="char:EOLhyphen"/>ander</hi> the Copperſmith, and all nor any of their writings doth in any place ſo much as mention that Book, or any ſuch kind of Service to be uſed all by them; I have farther taken paines in looking over ſome <hi>Caldean, Perſian, Egyptian, Arabian,</hi> and <hi>Arminian</hi> Authors (of which I underſtood not one word) I alſo (with the like diligence and underſtanding have viewed the Turkiſh <hi>Alacron,</hi> and there I found not any ſyllable concerning either <hi>Liturgie,</hi> Common-prayer or Divine Service. As for Greek Authors I muſt confeſſe I underſtand them not (or negatively) for which Reaſon I leave them, as impertinnet, and touch<g ref="char:EOLhyphen"/>ing the Latine Writers, they are partiall in this caſe, the tongue being <hi>Roma<g ref="char:EOLhyphen"/>nian,</hi> and the Idiome is <hi>Babiloniſh,</hi> which ſeems to me an Intricate confuſion.</p>
+            <p>I having carefully veiwed the Tomes and Tenets of Religion, and books of all manner of Hierogliphicks, writings, Scrolles, Tallies; Scores and Characters, and finding nothing for the maintaining of that Booke or <hi>Liturgie,</hi> I lookt into the Eccleſiaſticall Hiſtory, written by one <hi>Euſibius,</hi> and another fellow they call <hi>Socrates,</hi> wherein I found many Arguments and Incitements to move
+<pb n="3" facs="tcp:155383:2"/>men to ſuch doctrine as is compriſed and compiled in the <hi>Liturgie.</hi> After that I ſearched into the <hi>Acts</hi> and <hi>Monuments</hi> of this Kingdome, written by old <hi>Fox</hi> and there I found that the Compoſers of it were Biſhops and Doctors, and great learned Schollers men of unfained Integrity, of Impregnable Conſtancy. who with invincible Faith ſuffered moſt Glorious Martyrdome by the Papall Tyranny, for the writing and maintaining that Book, with the true Proteſtant Religion contained in it.</p>
+            <p>Brethren, I muſt confeſſe that I was ſomewhat puzzled in my mind at theſe things, and I could not be ſatisfied till I had conſulted with ſome of our devout Brothers our brother <hi>How</hi> the Cobler was the firſt I brake my mind to and we adviſed to call or ſummon a <hi>Synod</hi> to be held in my Lord <hi>Brooks</hi> Stable (the Reverend <hi>Spence<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> the ſtable Groome being the Metropolitan there. At our meeting there was <hi>Greene</hi> the Felt-maker. <hi>Barebones</hi> the Leatherſeller, <hi>Squire</hi> the Taylor, with <hi>Hoare</hi> a Weaver, &amp; <hi>Daviſon</hi> a Bonelace-maker of <hi>Meſſenden,</hi> &amp; <hi>Paul Hickson</hi> of <hi>Wickham</hi> Taylor with ſome foure or five Bakers dozzens of Weavers Millers, Tinkers, Botchers, Broomemen Porters, of all Trades, many of them bringing notes with them fitting for our purpoſe, which notes they had taken carefully from the inſtructions of the demi-martyrs and round and Sound Confeſſors, St. <hi>B.</hi> St. <hi>B.</hi> and St. <hi>B.</hi> out of which (with our owne Ca<g ref="char:EOLhyphen"/>pacities and ingenuities to boot) we have collected and gathered, theſe ſound and infallible objections againſt the Book of Common Prayer, or <hi>Liturgie,</hi> as followeth.</p>
+            <p>For our owne parts (my Brothren) it is for the Reputation and Honour of our Holy Cauſe and Calling to conteſt, maligne and cavill, where we are not able either to convince by Reaſons or Arguments; therefore I having trac'd the Booke from end to end, and yet (upon the matter) to no end for ſuch ends as we would conclude upon, I find nothing in it diſagreeing to Gods word or or agreeing with our doctrine. The firſt prayer called the Confeſſion, is quite contrary to our appetites and profeſſion, for to conſeſſe that <hi>Wee have erred and ſtrayed like loſt Sheep,</hi> is to acknowledge our ſelves to ſilly horned Beaſts and Cuckolds, our Children (by that reckoning ſhould be <hi>Lampes,</hi> our Wives <hi>Yewes</hi> and we (their innocent husbands) muſt be <hi>Rame;</hi> and every Lay Preach<g ref="char:EOLhyphen"/>er, or Preaching Treadeſmen would be accounteda <hi>Bellwheather</hi> to the flocke or Heard</p>
+            <p>Neither do we think it fit to make our ſelves appear ſo weak witted, or Puſil<g ref="char:EOLhyphen"/>lani mious as to confeſſe that <hi>We have left undone thoſe things Which we ought to have done, &amp; done thoſe things which we ought not to have done,</hi> for ſuch a con<g ref="char:EOLhyphen"/>feſſion will lay open our Diſloyalty our Intruſion our Tranſgreſſions, Rebelli<g ref="char:EOLhyphen"/>ons, and Treaſons we ſhall therein acknowledge our ſelves, by omitting of du<g ref="char:EOLhyphen"/>ties,
+<pb n="4" facs="tcp:155383:3"/>and committing of Villanies in Churchand State, do deſerve juſtly the ſe<g ref="char:EOLhyphen"/>verity of God, and the Kings Lawes to be our deſerved Wages: beſides, we hold it to be a retractive deminiſhing of valour, a Popiſh kind of Cowardly Effeminate ſubmiſſion, which our ſtout hearts ſtiffe necks, and ſtubborne knees will never ſtoop or bow to, for the old Proverb is <hi>Confeſſe and he, &amp;c.</hi>
+            </p>
+            <p>Concerning the ſecond Prayer (called the Abſolution) for the remiſſion of ſinnes through Chriſt, though Chriſt hath given power and commandement (to his lawfull Miniſters) to declare and pronounce in his Name to all true re<g ref="char:EOLhyphen"/>penting ſinners, the abſolution and remiſſion of their ſinnes yet we will not beleeve it to be available, but eſteeme it as Popiſh and Superſtitious.</p>
+            <p>As for the <hi>Lords Prayer,</hi> which the <hi>Pa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ist<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> call by the <hi>Romiſh</hi> or <hi>latine</hi> name of <hi>Pater Noster</hi> we muſt confeſſe it is Pithy and ſhort but had our advices beene at the making of it, it ſhould have beene two yards and a halfe longer, (by <hi>Londons</hi> meaſure) beſides we would like it better if it were not Command<g ref="char:EOLhyphen"/>ed or enjoyned upon us. <hi>Mat.</hi> 6.9. and <hi>Luk.</hi> 11.2. for our faiths cannot brook to be limited within the compaſſe of any Command. Deeree, Edict, Law, Sta<g ref="char:EOLhyphen"/>tute, Order, Rule, Ordinance, Government, or Authority, either of God or the King; beſides, in that prayer there is mention made of <hi>forgiving ſuch as Trespaſſe agianſt us,</hi> which our Doctrine or Natures cannot incline to, for we doe never remember a good turne and very ſeldome or never forget or forgive Injury. Therefore for theſe conſiderable Cauſes (and many more) we think it requiſite to forbeare that brief Prayer, and zealouſly to advance the Altitude of our ſpacious Eares, to receive the longitude of a three houres repetition for our more furctifying Edification.</p>
+            <p>Thirdly, for the deſiring the <hi>Lord to open our lips that our mouths might ſhew forth his praiſe:</hi> it is known that we can doe that extempory (by the ſpirit) and it belongs to our Teacher to open his lips and pray, but it is our parts to give ſpirituall attention, and not to open out lips but onely at the ſinging of old <hi>Robert Wiſdomes</hi> Madrigall, or the like. And whereas we are commmanded to ſtand at the ſaying of <hi>Gloria Patri,</hi> to avoid that Ceremony, we hold it beſt not to ſay it at all.</p>
+            <p>As for the 95. <hi>Pſalme (or, O come let us ſing, &amp;c.)</hi> we obiect againſt it for two Reaſons, the one is of falling downe and worſhipping and kneeling; and the other is, we will neither kneel, fall downe or worſhip, becauſe it is an ex<g ref="char:EOLhyphen"/>preſſion of humility and revererce, which we utterly refuſe to give either to God or man. As for the order of reading the firſt <hi>Leſſon,</hi> we could like it bet<g ref="char:EOLhyphen"/>ter if it were not ſo ordered; It were neceſſary we had freedome to read what when and where we liſt (for order is odious) and whereas there is appointed a <hi>Hymne,</hi> called by a latine name, <hi>Te Deum laudamus,</hi> we doe conceive the
+<pb n="5" facs="tcp:155383:3"/>matter of it to be very good, but that it was compoſed by a Biſhop (one <hi>Am<g ref="char:EOLhyphen"/>broſe</hi>) of a City and Province in <hi>Italy</hi> called <hi>Millaine,</hi> and that the ſaid <hi>Am<g ref="char:EOLhyphen"/>broſe</hi> was not onely a Biſhop, but (for his godly life and holy writings) he was made a Saint; for theſe cauſes we leave him and his Hymne to, as being too much conformable to edification decency, order and obedience</p>
+            <p>Likewiſe the ſecond <hi>Leſſon</hi> may be read, but not that which is appointed for the day, for (as is aforeſaid) we cannot abide any thing that is appointed or ordered by Authority, that our Conſciences being at liberty we may the more freely ſhew our ſelves the lawleſſe ſonnes and daughters of confuſion.</p>
+            <p>And though it hath beene a cuſtome very ſignificant (and as ancient as the primitive times of Chriſtian Religion) to repeat the Articles of the Beleiſe ſtanding, our underſtanding, notwithſtanding doth withſtand that kind of Po<g ref="char:EOLhyphen"/>ſture, for no other reaſon, but becauſe the Church ordain'd it, and the Law commands it; and truly we doe know no ſence or Reaſon to ſtand to any ſay<g ref="char:EOLhyphen"/>ing of <hi>Faith,</hi> for it is one of our principles <hi>that whatſoever we ſay we will ſtand to nothing.</hi>
+            </p>
+            <p>Next followeth the Lords prayer againe (as the Proteſtants-call it) and a prayer compoſed of <hi>Verſicles,</hi> wherein the Miniſter and People, do (as it were by Queſtions Anſwers) deſire <hi>Gods mercy, and the granting of ſalvation,</hi> after which they pray <hi>O Lord ſave the King,</hi> which is by us wonderfully diſlik't and omitted, and when we are to render the cauſe of it, we ſhall not want inſuf<g ref="char:EOLhyphen"/>ficient Anſwers which we have ſtudiouſly pond<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed in the learned Colled<g ref="char:EOLhyphen"/>ges of <hi>Amsterdam,</hi> and <hi>New-England.</hi> Then there followeth, <hi>Give Peace in our time O Lord,</hi> which we utterly deteſt, for if once that Prayer be granted, many of us (except the King be more mercifull then we deſerve) ſhall be hang<g ref="char:EOLhyphen"/>ed for rebellion and treaſon (and glad we ſcape ſo too) the beſt we can look for is the advancing againe the Proteſtant Religion, and then downe goe we with all our ſpirituall inſpirations and Long-winded Repetitions, we ſhall be ſilen<g ref="char:EOLhyphen"/>ced (which is a terrible torture) or baniſh't from our zealous Siſters, our Col<g ref="char:EOLhyphen"/>lections and Contributions will be abrogated and annihillated, our Puddings and Plum-broth will be in the forlorne hope, and our ſelves excluded, extir<g ref="char:EOLhyphen"/>pated, exiled, excommunicated, as extraordinary, extravigant, unexempled Raſcals and Coxcombes for theſe conſiderations of martiall validity, weight, and deep conſequence (altogether Repugnant and Malignant to our holy pro<g ref="char:EOLhyphen"/>feſſion of <hi>Brown<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſme</hi> and <hi>Anabaptiſme</hi>) we will neither have Peace (although we dare not fight in warre) no Peace I'le pray for, therefore good brethren, I pray you no prayer for Peace.</p>
+            <p>And for ſaying, <hi>God make our hearts cleane within us, and take not thy holy spirit from us;</hi> theſe words are impertinent for us to ſpeak, for we know our
+<pb n="6" facs="tcp:155383:4"/>hearts to be cleane and pure already, and for the Spirit. it is tyed ſo faſt to us that it cannot be taken from us, or from any that will beleeve us.</p>
+            <p>For the Evening prayer, there is one Collect for Peace and another for the enlightning of our darkneſſe; we have already declared our minds, though all the world knowes us to be Hipocrites, yet we doe know that a godly <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oyall peace will coufound us, therfore we will not Hypocritically pray for that which we deſire not to have; and for our darkeneſſe though it be palpable to be felt (like the darkneſſe of <hi>Aegypt,</hi> yea more darke then Ignorance it ſelfe) yet we, have by inſtigation found <hi>light</hi> in abundandance, our weights are <hi>light,</hi> our Mothers. Wives, Siſters. Annts, Neeces, Daughters and female ſervants are <hi>light,</hi> our inviſible Hornes are <hi>light,</hi> our Words Deeds. Thoughts<g ref="char:punc">▪</g> Conſcien<g ref="char:EOLhyphen"/>ces, payment of debt and Religion is <hi>light</hi> (or of <hi>light</hi> account) our faith in God and loyalty to the King, are moſt Tranſlucently <hi>light,</hi> Apparantly <hi>light,</hi> Reful gently <hi>light,</hi> Illuſtrately <hi>light,</hi> Tranſparently <hi>light,</hi> Internally <hi>light,</hi> Ex<g ref="char:EOLhyphen"/>ternally <hi>light.</hi> Infernally <hi>light,</hi> Emblazond, Perſpicuated Cognominated, Pro<g ref="char:EOLhyphen"/>pogated, and Promulgated to all the world to be <hi>light</hi> (lighter then any thing that can be called lightneſſe) lighter then Vapour, Ayre, Smoak. Flame, Duſt, Chaffe, Wind, Feather, Froath, Cork, Yeaſt, Fogge, Puſte, Blaſt, a Whore, Va<g ref="char:EOLhyphen"/>nity, yea more <hi>light</hi> then Vanity it ſelfe.</p>
+            <p>As concerning <hi>Quicunque Vult</hi> (or whoſoever will be ſaved) it is an argu<g ref="char:EOLhyphen"/>ment that he that will be, may be, and he that will not may chuſe whether he will or no, which implies a free will (a very Popiſh concluſion) alſo that Creed is concluded to be called <hi>Catholicke,</hi> which word we like not,</p>
+            <p>Next followeth the <hi>Latinie,</hi> which is a hard word to us, and ſounds in our ſpacious Eares as it were <hi>latine</hi> (or the Beaſts language) we confeſſe there are ſome few ſentences, that may be tolerated, but we ought to remember our ſelves and take heed, that we avoid praying againſt fornication, ſedition, Con<g ref="char:EOLhyphen"/>ſpiracy, falſe Doctrines. Hereſie, hardneſſe of heart, and contempt of Gods Word and Commandement; for you know Brethren, that theſe are daily and nightly Contemplations, and Recreations; beſides it ſeemes to be a ſwearing kind of Invocation (As) <hi>By the Incarnation, by</hi> the <hi>Nativity and Circumciſion Baptiſme, Fasting, Temptation, Agony, Bloody ſweat, Croſſe, Paſsion, Death, Buriall, Reſurrection, Aſcenſion, and comming of the Holy Ghoſt</hi> (All which is moſt certainly true) but we ought to find out ſome other <hi>By word</hi> then the word <hi>By,</hi> for though by them all true Beleevers are ſaved, yet that is no warrant or argument we ſhould ſweare by them.</p>
+            <p>Then there is praying that the Church may be ruled and governed in the right way, which if that be granted, what will become of us that doe know our ſelves to be none of the true Church, therefore that prayer belongs not to us.</p>
+            <pb n="7" facs="tcp:155383:4"/>
+            <p> Then followeth beſeechings for bleſſings to be upon the King, Queen, and Royall Poſterity, and that they may have Victory over all their Enemies, and all the World knowes we are none of their friends, therefore theſe prayers are <hi>Apocryphy</hi> to us, neither will we be ſo ſimple to pray againſt our ſelves, and the Caſe is plain that Rebellion muſt be tamed before the King can be victo<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ous.</p>
+            <p>Then followes praying for <hi>Biſhops</hi> (whom we cannot abide, nor can we ſhew wherefore) and amongſt the reſt there is a prayer <hi>for all women lahouring with child,</hi> in which prayer many a looſe harlot may be comprehended, therefore it had been firter to have prayed <hi>for all women labouring of child lawfully begot<g ref="char:EOLhyphen"/>ten,</hi> for verily it is ſinfull to pray for either Root Stock, Lim. Bough, Branch, Sprigge, Leafe, Fruit or ſeed of the wicked. I like well of the laſt verſe (ex<g ref="char:EOLhyphen"/>cept one) of this ſame <hi>Latine,</hi> wherein we pray, <hi>that the fruits of the earth may be given and preſerved to our uſe</hi> (but with this proviſo) that we alone and none but we (who labour in the holy Cauſe) <hi>ſhould enjoy them in due time,</hi> or at any time.</p>
+            <p>Then there are prayers for Mercy, for Grace, for Deſence &amp; victory in war, for preſervation from Plague and Peſtilence, for Biſhops againe, and Curates, for Raine for faire weather, for Reliefe in dearth and famine; then there fol<g ref="char:EOLhyphen"/>loweth 84. things which they call Collects, wherein many holy Saints are Re<g ref="char:EOLhyphen"/>membred on certaine peculiar dayes, and though we can juſtly find nothing but what is agreeable to Gods word in the whole <hi>Liturgy,</hi> yet the purity of our ſingular Doctrines doe hold it prophane and Popiſh for we have the Spirit to prompt us, inſomuch as our grave Patriots have lately thought it fit to unſaint all the Saints, and all the Churches and Houſes of God in <hi>London,</hi> have been theſe many monthes diſtoabed of their Sanctimonious names, and are all ex<g ref="char:EOLhyphen"/>communicated out of the weekly diſeaſed Bill; for now the Churches are to be called no more St. <hi>John,</hi> St. <hi>Peter,</hi> but <hi>Peters, Andrews, James, Johns, Georges,</hi> Church or Pariſh: with ſo many dyed of ſuch and ſuch diſeaſes, or by caſualty ſuch or ſuch a Raſcall hang'd himſelfe, for playing a <hi>Judas</hi> part againſt his Soveraigne.</p>
+            <p>Next followeth the ten Commandements (which we neglect to ſay) be<g ref="char:EOLhyphen"/>cauſe they are of the old Teſtament, and the Law was given to the <hi>Jewes,</hi> we that are Chriſtians are freed from it by the Goſpell; beſides it is ſaid to have two Tables, one ſhewing our duty towards God the others towards man, con<g ref="char:EOLhyphen"/>cerning the firſt of them we hold our ſelves clea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e from Idolatry, ſwearing and prophanation; for the ſecond, vve conceive it not to bind us either to give honour to the King or Magiſtrates (they being the Fathers and P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>otectors of our Country, Wealth, eſtates, and all vve enjoy under God) nor to our naturall Parents, if they be not of our faith.</p>
+            <pb n="8" facs="tcp:155383:5"/>
+            <p> At the Communion there are prayers for the King againe, and the Beliefe, vvith Repeating ſome portions of Scripture to move men to Charity and good vvorks all vvhich vve omit, for onely <hi>faith</hi> is our practice, and for good vvorks, or Charity, vve hold it to be unneceſſary, and therefore vve vvill neither uſe or doe any: Neither will we receivelying, ſtanding, ſitting, nor kneeling (by any meanes) nor any way that is commanded by order, in what place or Country whatſoever; as for publike or private Baptiſme, vve are able to doe that our ſelves, either in a Baſon a River, a Brook, a Pond a Pool, a Di<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch or a Puddle, nor doe we hold it fitting but that we be Godfathers and Godmo<g ref="char:EOLhyphen"/>thers to our Children our ſelves, and call them what Scripture names we liſt. Nay, we will Church our wives our ſelves too. And as for Matrimony we will ſave that charges, and take one anothers words, for we muſt take our wives vvords for our Children, and vvhy nor for themſelves, as for the viſitation of the ſicke and Buriall of the dead they are both fit to be done, the one is ne<g ref="char:EOLhyphen"/>ceſſary, becauſe the Brethren and Siſters may meet and ſalute and Feaſt.</p>
+            <p>And as for the Buriall of the dead the caſe is all mens, beſides Boyes, vvo<g ref="char:EOLhyphen"/>men and Children, but a grave and learned long ſtanding Lecturer did lately find out the right vvay of Buriall; for an old man that dyed in the Pariſh of St. <hi>James</hi> neer the Dukes place vvithin <hi>Aldgate,</hi> at vvhich Funerall he Preach<g ref="char:EOLhyphen"/>ed and in his Sermon he told the dead man his faults very Roundly, and abu<g ref="char:EOLhyphen"/>ſed the Corps more for ten ſhillings then any Conformable Preacher vvould have done for tvventy, and vvhen he came to the laying the Body in the Ground, he ommitted all old order and Ceremonies of Buriall, onely thus briefly he ſaid,
+<q>
+                  <l>Aſhes to Aſhes, duſt to duſt,</l>
+                  <l>Heres the Hole and in thou muſt.</l>
+               </q>
+            </p>
+            <trailer>So theres an end, and an end of my Lecture.</trailer>
+         </div>
+         <div type="postscript">
+            <head>A Poſcript.</head>
+            <p>IT is humbly deſired that the Reader do not cenſure the Writer with any thought, or touch of Prophanity, for in this foregoing diſcourſe he hath onely diſciphered the fooliſh Grounds, Tenets which the Teachers of the Peſtilent Sects of <hi>Schiſmatiques,</hi> and <hi>Se<g ref="char:EOLhyphen"/>paratiſts,</hi> doe hold and maintaine.</p>
+            <closer>
+               <signed>Yours, <hi>J. T.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:155383:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
